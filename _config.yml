@@ -1,9 +1,7 @@
-favicon: null
 name: Test001
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2192243
+typography_spectrum: 0.135943547822535
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Grid Test 001
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1544091796968132
-  brandStrength: 0.1254773724358529
-  rhythmicContrast: 0.6434325140435249
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+  brandStrength: 0.1254773724358529
   lightness: 0.8064457955770195
-typography_spectrum: 0.135943547822535
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.2192243
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.1544091796968132
+  rhythmicContrast: 0.6434325140435249
+purpose: []
