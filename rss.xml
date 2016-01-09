@@ -4,7 +4,7 @@
         <description><![CDATA[Grid Test 001]]></description>
         <link>https://thegrid.ai/test001/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 07:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 07:23:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test001/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Confirmed: How to stop Windows 10 forcing itself onto PCs - your essential guide]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.theregister.co.uk/2016/01/08/windows_10_upgrade_blocker/</link>
             <guid isPermaLink="false">45005e52-4945-4775-9df5-7215b99b7bc3</guid>
             <pubDate>Sat, 09 Jan 2016 07:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flowers]]></title>
-            <description><![CDATA[<article><h1>Flowers</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/586c59fb4e44eca8ea7594f28dd3f63b71a835fc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test001/def4730c-aa42-403c-ba07-3ad3ebaebd22/index.html</link>
-            <guid isPermaLink="false">def4730c-aa42-403c-ba07-3ad3ebaebd22</guid>
-            <pubDate>Fri, 08 Jan 2016 21:27:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
