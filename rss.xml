@@ -4,11 +4,18 @@
         <description><![CDATA[Grid Test 001]]></description>
         <link>https://thegrid.ai/test001/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 19:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 01:47:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test001/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Trend Micro AV gave any website command-line access to Windows PCs]]></title>
+            <description><![CDATA[<article><h1>Trend Micro AV gave any website command-line access to Windows PCs</h1><p>PCs running Trend Micro's Antivirus on Windows can be hijacked, infected with malware, or wiped clean by any website, thanks to vulnerabilities in the security software. The design blunders were discovered by Google Project Zero member Tavis Ormandy. A patch is now available to address the vulnerabilities, so Trend Micro users should update their software as soon as possible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79d8879b1a6f641261c2ed1562c1401f3b3eff9d.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/01/11/trend_micro_antivirus/</link>
+            <guid isPermaLink="false">b82c4b15-8577-4f83-ab96-2a5defad6949</guid>
+            <pubDate>Tue, 12 Jan 2016 01:47:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New Discovery Around Juniper Backdoor Raises More Questions About the Company]]></title>
-            <description><![CDATA[<article><h1>New Discovery Around Juniper Backdoor Raises More Questions About the Company</h1><p>When tech giant Juniper Networks made the startling announcement last month that it had uncovered two mysterious backdoors embedded in software running on some of its firewalls, certain people in the security community praised the company for being honest about its discovery.</p><img src="http://www.wired.com/wp-content/uploads/2016/01/GettyImages-465556066-featured-1200x630.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>New Discovery Around Juniper Backdoor Raises More Questions About the Company</h1><p>When tech giant Juniper Networks made the startling announcement last month that it had uncovered two mysterious backdoors embedded in software running on some of its firewalls, certain people in the security community praised the company for being honest about its discovery.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79f52b573f1dd90a6a23d2b5da6f18f53e2c9aa8.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/01/new-discovery-around-juniper-backdoor-raises-more-questions-about-the-company/</link>
             <guid isPermaLink="false">bd226d23-d138-4059-80d5-4b477917497e</guid>
             <pubDate>Sun, 10 Jan 2016 19:35:01 GMT</pubDate>
