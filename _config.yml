@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Main site
+    url: 'http://stocksfamily.org'
+    type: external
 favicon: null
 collections:
   - index:
