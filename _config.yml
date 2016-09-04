@@ -1,7 +1,30 @@
-name: Test001
-favicon: null
-layout_spectrum: 0.88662
 typography_spectrum: 0.135943547822535
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1254773724358529
+  lightness: 0.8064457955770195
+  saturation: 0.1544091796968132
+  rhythmicContrast: 0.6434325140435249
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.88662
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Test001
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +38,5 @@ collections:
       format: rss
       number: 10
 title: Grid Test 001
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.1254773724358529
-  lightness: 0.8064457955770195
-  saturation: 0.1544091796968132
-  rhythmicContrast: 0.6434325140435249
+description: Does it work yet?
 purpose: []
