@@ -1,14 +1,13 @@
 ---
-description: ''
-author: []
-datePublished: '2016-01-13T10:35:44.983Z'
-publisher:
-  domain: ''
-  name: ''
-title: 'India says "Hello!"'
-dateModified: '2016-01-13T07:39:03.550Z'
+datePublished: '2016-09-01T09:15:00.908Z'
 sourcePath: _posts/2016-01-13-india-says-hello.md
-published: true
+author: []
+dateModified: '2016-09-01T09:14:59.964Z'
+title: India says "Hello!"
+publisher: {}
+description: ''
+via: {}
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
@@ -18,4 +17,4 @@ _type: Article
 
 ---
 # India says "Hello!"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/585b9afa-3acd-42c2-8d83-480cd21b6df5.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3200f82b4eaa6852c685d44faef7f0c9fdb0a8b7.png)
